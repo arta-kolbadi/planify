@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PLANIFY</string>
+    <string name="focus_channel_name">Focus Timer &amp; Shield</string>
+    <string name="focus_channel_desc">Displays active focus countdown and distraction alerts</string>
+    <string name="reminder_channel_name">Study Reminders</string>
+</resources>
